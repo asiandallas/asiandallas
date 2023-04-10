@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Kyrstn Hall
+
+- 🔭 I’m currently working on revamping my personal website
+- 🌱 I’m currently learning Web Programming (HTML,CSS,JS,PHP), Cloud Computing (AWS, Google Cloud), System Analysis & Design
+- 📫 How to reach me: kyrstn.hall@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am a competitive speedcuber! 
 
 <!--
 **asiandallas/asiandallas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
