@@ -3,7 +3,7 @@
 </h3>
 
 - 🔭 I’m currently working on revamping my personal website
-- 🌱 I’m currently learning Web Programming (HTML,CSS,JS,PHP), Cloud Computing (AWS, Google Cloud), System Analysis & Design
+- 🌱 I’m currently learning full stack web development and AWS
 - 📫 How to reach me: Email me at kyrstn.hall@gmail.com
 - ⚡ Fun fact: I am a competitive speedcuber! 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/kyrstnhall/)!
