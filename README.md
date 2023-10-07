@@ -3,7 +3,7 @@
 </h3>
 
 - 🔭 I’m currently working on a full-stack project with a group of 5
-- 🌱 I’m currently learning networking and front-end development (HTML, CSS, JS, React)
+- 🌱 I’m currently learning computer networking and front-end development (JS, React)
 - 📫 How to reach me: Email me at kyrstn.hall@gmail.com
 - ⚡ Fun fact: I am a competitive speedcuber! 
 
