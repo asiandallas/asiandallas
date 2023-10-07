@@ -2,12 +2,10 @@
   Hi there 👋 I'm Kyrstn Hall
 </h3>
 
-- 🔭 I’m currently working on revamping my personal website
-- 🌱 I’m currently learning full stack web development and AWS
+- 🔭 I’m currently working on a full-stack project with a group of 5
+- 🌱 I’m currently learning networking and front-end development (HTML, CSS, JS, React)
 - 📫 How to reach me: Email me at kyrstn.hall@gmail.com
 - ⚡ Fun fact: I am a competitive speedcuber! 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/kyrstnhall/)!
-
 
 <!--
 **asiandallas/asiandallas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
