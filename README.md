@@ -9,7 +9,7 @@
 
 ![](https://raw.githubusercontent.com/asiandallas/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/asiandallas/stats/master/generated/overview.svg#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiandallas&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiandallas&layout=compact&theme=transparent)
 
 <!--
 **asiandallas/asiandallas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
