@@ -7,10 +7,10 @@
 - 📫 How to reach me: Email me at kyrstn.hall@gmail.com
 - ⚡ Fun fact: I am a competitive speedcuber!
 
-![](https://raw.githubusercontent.com/asiandallas/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/asiandallas/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/asiandallas/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/asiandallas/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/asiandallas/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/asiandallas/stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/asiandallas/stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/asiandallas/stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!--
 **asiandallas/asiandallas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
