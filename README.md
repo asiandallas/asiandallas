@@ -9,7 +9,6 @@
 
 ![](https://raw.githubusercontent.com/asiandallas/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/asiandallas/stats/master/generated/overview.svg#gh-light-mode-only)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asiandallas&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiandallas&layout=compact&theme=transparent)
 
 <!--
