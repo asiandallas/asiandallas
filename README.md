@@ -2,8 +2,8 @@
   Hi there 👋 I'm Kyrstn Hall
 </h3>
 
-- 🔭 I’m currently working on a full-stack project with a group of 5
-- 🌱 I’m currently learning computer networking 
+- 🔭 I’m currently working on my capstone project
+- 🌱 I’m currently learning computer security & working with NLP/text analysis with cloud-based technologies
 - 📫 How to reach me: Email me at kyrstn.hall@gmail.com
 - ⚡ Fun fact: I am a competitive speedcuber!
 
